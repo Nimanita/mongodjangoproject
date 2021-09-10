@@ -10,3 +10,18 @@ salaryEmp = 100
 email = “hit@mail.com”
 first_name()
 const username = "asfweferg.com";
+
+tags:
+  - description: Health ID Authentication APIs
+    name: Authentication
+  - description: APIs to Retrieve Health ID/number using mobile number or aadhar.
+    name: Forgot health id/number
+  - description: Create Health facility ID APIs
+    name: Health Facility
+    
+  AUTH_PASSWORD_VALIDATORS = [
+    {
+        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',
+    },
+    {
+        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',
