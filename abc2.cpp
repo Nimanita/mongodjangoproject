@@ -14,7 +14,7 @@ first_name()
   user blood pressure
   user health issues
   user record_of_leaves = 100
-  user.exam 
+  user.exam = semester
   user .rollno =8293
   user.exampaper 
   user assessment_result = pass
