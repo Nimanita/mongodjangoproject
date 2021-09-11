@@ -13,6 +13,8 @@ first_name()
   user illness condition = "diabetes" 
   user blood pressure
   user health issues
+  user record_of_leaves = 100
+  user assessment_result = pass
       @property
     def medical_conditions(self):
         return self
