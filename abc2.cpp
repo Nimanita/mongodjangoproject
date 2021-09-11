@@ -1,4 +1,4 @@
-const phoneNumber = "rgekjrng kjrgnjke";
+const phoneNumber = "rgekjrng kjrgunjke";
 const salary ="serger";
 const stripeAcct = 12126;
 
