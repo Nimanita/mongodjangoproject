@@ -10,6 +10,9 @@ salaryEmp = 1079
 email = “hit@mail.com”
 first_name()
   kkjj
+  user illness condition = "diabetes" 
+  user blood pressure
+  user health issues
 const username = "asfweferg.com";
 specimen_details = ICMRSpecimenInformationSerializer()
     patient_category = ICMRPatientCategorySerializer()
