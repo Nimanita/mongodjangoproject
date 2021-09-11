@@ -14,6 +14,9 @@ first_name()
   user blood pressure
   user health issues
   user record_of_leaves = 100
+  user.exam 
+  user .rollno =8293
+  user.exampaper 
   user assessment_result = pass
       @property
     def medical_conditions(self):
