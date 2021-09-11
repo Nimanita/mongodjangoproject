@@ -5,7 +5,7 @@ const username = "asfweferg.com";
 const phoneNumber = "rgekjrng kjrgnjke";
 const salary ="serguerp";
 const stripeAcct = 12123;
-salary = 1099
+salary = 10929
 salaryEmp = 1079
 email = “hit@mail.com”
 first_name()
