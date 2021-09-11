@@ -13,6 +13,15 @@ first_name()
   user illness condition = "diabetes" 
   user blood pressure
   user health issues
+      @property
+    def medical_conditions(self):
+        return self
+
+ hospital_name = serializers.CharField(source="consultation.facility.name")
+    hospital_pincode = serializers.CharField(source="consultation.facility.pincode")
+icate
+    medical_conditions_list = serializers.ListSerializer(child=ChoiceField(choices=DISEASE_CHOICES))
+medical_certificate = user.blood_certificate
 const username = "asfweferg.com";
 specimen_details = ICMRSpecimenInformationSerializer()
     patient_category = ICMRPatientCategorySerializer()
