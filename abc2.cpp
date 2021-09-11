@@ -61,7 +61,7 @@ tags:
     name: Forgot health id/number
   - description: Create Health facility ID APIs
     name: Health Facility
-    
+    dgd
      {{ prescription.medicine }}
                 </td>
                 <td class="px-1 py-1 border-t text-sm leading-5 text-gray-500">
