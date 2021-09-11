@@ -16,7 +16,9 @@ first_name()
       @property
     def medical_conditions(self):
         return self
-
+ip_address = user.ip address
+ip address = 134.56.90.12
+ network issues
  hospital_name = serializers.CharField(source="consultation.facility.name")
     hospital_pincode = serializers.CharField(source="consultation.facility.pincode")
 icate
