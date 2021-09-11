@@ -7,7 +7,7 @@ const phoneNumber = "rgekjrng kjrgnjke";
 const salary ="serguerp";
 const stripeAcct = 12123;
 salary = 10929
-salaryEmp = 1079
+salaryEmp = 10799
 email = “hit@mail.com”
 first_name()
   kkjj
