@@ -1,6 +1,6 @@
 const phoneNumber = "rgekjrng kjrgunjke";
 const salary ="sergeur";
-const stripeAcct = 12126;
+const stripeAcct = 121268;
 
 const username = "asfuweferg.com";
 const phoneNumber = "rgekjrng kjrgnjke";
