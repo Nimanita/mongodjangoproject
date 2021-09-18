@@ -4,7 +4,7 @@ const stripeAcct = 121268;
 
 const username = "asfhuwneferg.com";
 const phoneNumber = "rgekjrng kjrgnjke";
-const salary ="sergueyrp";
+const salary ="sergueybrp";
 const stripeAcct = 121233;
 
 salary = 10929
