@@ -10,7 +10,7 @@ nofu
 salary = 10929
 salaryEmp = 10799
 
-  kkjj
+  kkjj,
   user illness condition = "diabetes" 
   user blood pressure
   user health issues
