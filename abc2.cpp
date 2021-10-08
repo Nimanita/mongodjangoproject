@@ -11,6 +11,13 @@ const stripeAcct = 121233;
 nofu
 salary = 10929
 salaryEmp = 10799
+        {
+        firstName: 'Peter',
+        lastName: 'Parker',
+        accountId: twitter_channel.inbox.account_id,
+        profilePic: 'https://via.placeholder.com/250x250.png'
+      }
+    )
 
   kk
   user illness condition = "diabetes" 
