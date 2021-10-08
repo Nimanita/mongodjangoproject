@@ -1,4 +1,1 @@
-user name = firstname()
-schooldetails
 
-#
