@@ -6,7 +6,7 @@ const username = "asfhuwneferg.com";
 const phoneNumber = "rgekjrng kjrgnjke";
 const salary ="sergueybrp";
 const stripeAcct = 121233;
-n
+no
 salary = 10929
 salaryEmp = 10799
 
