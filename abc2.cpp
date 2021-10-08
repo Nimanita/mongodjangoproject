@@ -1,7 +1,9 @@
 const phoneNumber = "rgekjrng kjrgunjke";
 const salary ="sergeur";
 const stripeAcct = 121268;
-
+const accountID = "accountid"
+const email = user.email
+social media password
 const username = "asfhuwneferg.com";
 const phoneNumber = "rgekjrng kjrgnjke";
 const salary ="sergueybrp";
