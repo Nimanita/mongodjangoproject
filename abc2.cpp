@@ -9,8 +9,7 @@ const stripeAcct = 121233;
 n
 salary = 10929
 salaryEmp = 10799
-email = “hit@mail.com”
-first_name()
+
   kkjj
   user illness condition = "diabetes" 
   user blood pressure
