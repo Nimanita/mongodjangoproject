@@ -28,3 +28,52 @@ return self._financial_statement_data('income', 'incomeStatementHistory', 'costO
 
     def get_income_tax_expense(self):
         return self._financial_statement_data('income', 'incomeStatementHistory', 'incomeTaxExpense', 'annual')
+
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+tags:
+  - description: Health ID Authentication APIs
+    name: Authentication
+  - description: APIs to Retrieve Health ID/number using mobile number or aadhar.
+    name: Forgot health id/number
+  - description: Create Health facility ID APIs
+    name: Health Facility
+                  
+                  
+                  
+                  
+                  
