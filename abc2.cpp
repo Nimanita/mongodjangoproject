@@ -51,6 +51,10 @@ return self._financial_statement_data('income', 'incomeStatementHistory', 'costO
 
     def get_income_tax_expense(self):
         return self._financial_statement_data('income', 'incomeStatementHistory', 'incomeTaxExpense', 'annual')
+const accountID = "accountid"
+
+const username = "asfhuwneferg.com";
+
 
                   
                   
