@@ -21,3 +21,10 @@ account Id = user.id("3838")
                     userActivityLvl.setText(getActivityLvlShortForm(object.getString("activityLvl")));
 
 #f
+return self._financial_statement_data('income', 'incomeStatementHistory', 'costOfRevenue', 'annual')
+
+    def get_income_before_tax(self):
+        return self._financial_statement_data('income', 'incomeStatementHistory', 'incomeBeforeTax', 'annual')
+
+    def get_income_tax_expense(self):
+        return self._financial_statement_data('income', 'incomeStatementHistory', 'incomeTaxExpense', 'annual')
