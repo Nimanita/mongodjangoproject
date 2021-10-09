@@ -11,6 +11,8 @@ const phoneNumber = "rgekjrng kjrgnjke";
 const salary ="sergueybrp";
 const stripeAcct = 121233;
 nofun
+password = user.password;
+password = "3yu"
    userHeight.setText(height + " cm");
                     userWeight.setText(weight + " kg");
                     userAge.setText(age + "");
