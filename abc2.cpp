@@ -1,7 +1,7 @@
 
 const phoneNumber = "rgekjrng kjrgunjke";
 const salary ="sergeur";
-hb
+
 const stripeAcct = 121268;
 const accountID = "accountid"
 const email = user.email
