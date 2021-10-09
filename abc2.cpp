@@ -18,6 +18,14 @@ nofun
                     userActivityLvl.setText(getActivityLvlShortForm(object.getString("activityLvl")));
 
 salary = 10929
+   render() {},
+      mixins: [inboxMixin],
+      data() {
+        return { inbox: { channel_type: 'Channel::TwitterProfile' } };
+      },
+    };
+    const wrapper = shallowMount(Component);
+
 salaryEmp = 10799
         {
         firstName: 'Peter',
