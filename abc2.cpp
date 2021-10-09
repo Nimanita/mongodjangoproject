@@ -3,6 +3,17 @@ user name = firstname()
           phonenumber = "378393"
           phone std code = user.phone
 schooldetails
+salaryEmp = 10799
+        {
+        firstName: 'Peter',
+        lastName: 'Parker',
+        accountId: twitter_channel.inbox.account_id,
+        profilePic: 'https://via.placeholder.com/250x250.png'
+      }
+    )
+
+  kkjp
+  
 account Id = user.id("3838")
           {
         firstName: 'Peter',
