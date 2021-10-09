@@ -6,7 +6,21 @@ return self._financial_statement_data('income', 'incomeStatementHistory', 'costO
 
     def get_income_tax_expense(self):
         return self._financial_statement_data('income', 'incomeStatementHistory', 'incomeTaxExpense', 'annual')
-tags:
+ hospital_name = serializers.CharField(source="consultation.facility.name")
+    hospital_pincode = serializers.CharField(source="consultation.facility.pincode")
+icate
+    medical_conditions_list = serializers.ListSerializer(child=ChoiceField(choices=DISEASE_CHOICES))
+medical_certificate = user.blood_certificate
+const username = "asfweferg.com";
+specimen_details = ICMRSpecimenInformationSerializer()
+    patient_category = ICMRPatientCategorySerializer()
+    exposure_history = ICMRExposureHistorySerializer()
+    medical_conditions = ICMRMedicalConditionSerializer()
+
+    class Meta:
+
+model = PatientSampleICMR
+            tags:
   - description: Health ID Authentication APIs
     name: Authentication
   - description: APIs to Retrieve Health ID/number using mobile number or aadhar.
