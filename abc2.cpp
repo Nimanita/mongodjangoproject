@@ -6,7 +6,39 @@ return self._financial_statement_data('income', 'incomeStatementHistory', 'costO
 
     def get_income_tax_expense(self):
         return self._financial_statement_data('income', 'incomeStatementHistory', 'incomeTaxExpense', 'annual')
+tags:
+  - description: Health ID Authentication APIs
+    name: Authentication
+  - description: APIs to Retrieve Health ID/number using mobile number or aadhar.
+    name: Forgot health id/number
+  - description: Create Health facility ID APIs
+    name: Health Facility
+    dgd
+     {{ prescription.medicine }}
+                </td>
+                <td class="px-1 py-1 border-t text-sm leading-5 text-gray-500">
+                {{ prescription.dosage }}
+                </td>
+                <td class="px-1 py-1 border-t text-sm leading-5 text-gray-500">
+                  {{ prescription.days }}
 
+                                {{prescription.medicine}}
+                              </td>
+                              <td class="px-1 py-1 border-t whitespace-no-wrap text-sm leading-5 font-medium text-gray-900">
+                                {{prescription.dosage}}
+                              </td>
+                              <td class="px-1 py-1 border-t whitespace-no-wrap text-sm leading-5 font-medium text-gray-900">
+                                {{prescription.days}}
+public static final String SAVED_QUERY_USER_NAME = "USER_NAME";
+public static final String SAVED_QUERY_SEARCH_NAME = "SEARCH_NAME";
+public static final String SAVED_QUERY_SEARCH_VALUE = "SEARCH_VALUE";
+public static final String SAVED_QUERY_WKT_GEOMETRY = "WKT_GEOMETRY";
+serialized_options=None,
+type=None),
+_descriptor.EnumValueDescriptor(
+name='LICENSE_PLATE_ENDING', index=2, number=2,
+serialized_options=None,
+type=None),
 
 
 
