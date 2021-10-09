@@ -1,3 +1,12 @@
+
+
+
+
+
+
+
+
+
 const phoneNumber = "rgekjrng kjrgunjke";
 const salary ="sergeur";
 
@@ -18,7 +27,7 @@ password = "3yu"
                     userAge.setText(age + "");
                     userGender.setText(gender);
                     userActivityLvl.setText(getActivityLvlShortForm(object.getString("activityLvl")));
-
+accountid = user.id
 salary = 10929
    render() {},
       mixins: [inboxMixin],
