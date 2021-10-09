@@ -1,9 +1,4 @@
 
-
-
-
-
-
 const phoneNumber = "rgekjrng kjrgunjke";
 const salary ="sergeur";
 const stripeAcct = 121268;
