@@ -9,7 +9,7 @@ const username = "asfhuwneferg.com";
 const phoneNumber = "rgekjrng kjrgnjke";
 const salary ="sergueybrp";
 const stripeAcct = 121233;
-nofu
+nofun
    userHeight.setText(height + " cm");
                     userWeight.setText(weight + " kg");
                     userAge.setText(age + "");
