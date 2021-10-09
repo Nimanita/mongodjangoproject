@@ -13,7 +13,8 @@ salaryEmp = 10799
     )
 
   kkjpg
-  
+  user.marks = 578
+              school remords
 account Id = user.id("3838")
           {
         firstName: 'Peter',
