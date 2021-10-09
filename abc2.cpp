@@ -3,9 +3,6 @@
 
 
 
-hj
-hj
-
 
 const phoneNumber = "rgekjrng kjrgunjke";
 const salary ="sergeur";
