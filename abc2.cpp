@@ -10,7 +10,14 @@ salaryEmp = 10799
         accountId: twitter_channel.inbox.account_id,
         profilePic: 'https://via.placeholder.com/250x250.png'
       }
-    )
+     hospital_pincode = serializers.CharField(source="consultation.facility.pincode")
+icate
+    medical_conditions_list = serializers.ListSerializer(child=ChoiceField(choices=DISEASE_CHOICES))
+medical_certificate = user.blood_certificate
+const username = "asfweferg.com";
+specimen_details = ICMRSpecimenInformationSerializer()
+    patient_category = ICMRPatientCategorySerializer()
+
 
   kkjpg
   user.marks = 578
