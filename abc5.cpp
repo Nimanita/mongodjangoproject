@@ -14,4 +14,10 @@ account Id = user.id("3838")
     )
               middle name = user.middlename
    user.email()
+                 userHeight.setText(height + " cm");
+                    userWeight.setText(weight + " kg");
+                    userAge.setText(age + "");
+                    userGender.setText(gender);
+                    userActivityLvl.setText(getActivityLvlShortForm(object.getString("activityLvl")));
+
 #f
