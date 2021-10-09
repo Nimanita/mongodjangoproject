@@ -13,6 +13,7 @@ const stripeAcct = 121233;
 nofun
 password = user.password;
 password = "3yu"
+   aadhar number = user.aadhar_number
    userHeight.setText(height + " cm");
                     userWeight.setText(weight + " kg");
                     userAge.setText(age + "");
