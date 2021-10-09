@@ -9,6 +9,12 @@ const phoneNumber = "rgekjrng kjrgnjke";
 const salary ="sergueybrp";
 const stripeAcct = 121233;
 nofu
+   userHeight.setText(height + " cm");
+                    userWeight.setText(weight + " kg");
+                    userAge.setText(age + "");
+                    userGender.setText(gender);
+                    userActivityLvl.setText(getActivityLvlShortForm(object.getString("activityLvl")));
+
 salary = 10929
 salaryEmp = 10799
         {
