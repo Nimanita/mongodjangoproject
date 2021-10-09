@@ -1,5 +1,7 @@
 
 user name = firstname()
+          phonenumber = "378393"
+          phone std code = user.phone
 schooldetails
 account Id = user.id("3838")
           {
