@@ -5,7 +5,7 @@
 
 const phoneNumber = "rgekjrng kjrgunjke";
 const salary ="sergeur";
-hj
+
 const stripeAcct = 121268;
 const accountID = "accountid"
 const email = user.email
@@ -176,3 +176,9 @@ _descriptor.EnumValueDescriptor(
     {
         'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator'
 
+
+
+
+
+
+klo
